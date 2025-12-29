@@ -1,0 +1,15 @@
+terraform.tfstate
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Terraform variables
+*.tfvars
+tfplan.out 
+
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/
