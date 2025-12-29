@@ -13,3 +13,4 @@ tfplan.out
 .DS_Store
 .idea/
 .vscode/
+variables2.tfvars
